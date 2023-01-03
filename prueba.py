@@ -1,2 +1,4 @@
-print("archivo de python")
+variable = "hello world"
+
+print(variable)
 
